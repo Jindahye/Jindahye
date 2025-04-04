@@ -1,4 +1,10 @@
-## Hi there 👋
+## 소개
+안녕하세요. 진다혜입니다.
+영남대학교 컴퓨터공학전공 학생입니다.
+
+## 연락처
+email: jindahye0315_@naver.com
+
 
 <!--
 **Jindahye/Jindahye** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
